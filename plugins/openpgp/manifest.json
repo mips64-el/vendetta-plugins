@@ -1,0 +1,14 @@
+{
+    "name": "openpgp",
+    "description": "A plugin for enabling encryption",
+    "authors": [
+        {
+            "name": "mipsy",
+            "id": "mips64el"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
