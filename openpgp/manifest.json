@@ -1,1 +1,1 @@
-{"name":"openpgp","description":"A plugin for enabling encryption","authors":[{"name":"mips64el","id":"1159488028419555418"}],"main":"index.js","vendetta":{"icon":"ic_channel_lock_16px"},"hash":"5f54a15d0aad86a52e77378b2e9224a5b2051bf71f929537b923d56515acce2c"}
+{"name":"openpgp","description":"A plugin for enabling encryption","authors":[{"name":"mips64el","id":"1159488028419555418"}],"main":"index.js","vendetta":{"icon":"ic_channel_lock_16px"},"hash":"cc5105a568113ce873ad11f8b357c8cbd6e8046ed965b35736e3a82248529621"}
